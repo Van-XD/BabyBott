@@ -11,7 +11,7 @@
 
 ## ```Deploy```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/Self-bot-wa/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/van-xd/Babybott/)
 
 ## Join Group Bot
 [`Group Whatsapp`](https://chat.whatsapp.com/DmYC7VwLxpVIPHrysJFIC7)
