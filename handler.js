@@ -362,7 +362,7 @@ module.exports = {
             if (e) {
               let text = util.format(e)
               for (let key of Object.values(global.APIKeys))
-                text = text.replace(new RegExp(key, 'g'), 'HIRO')
+                text = text.replace(new RegExp(key, 'g'), 'b17923ccd394536c')
                 if (DevMode) {
                         for (let jid of global.owner.map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').filter(v => v != conn.user.jid))  m.reply(`file:* ${plugin}\n*Nomor:* ${m.sender}\n*Text:* ${m.text}\n\n\`\`\`${text}\`\`\``, jid)
                 }
