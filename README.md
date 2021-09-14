@@ -8,6 +8,11 @@
 <a href="https://github.com/botstylee/bsbt/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/BochilGaming/games-wabot?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://github.com/botstylee/bsbt/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/BochilGaming/games-wabot?label=PullRequest&color=red&style=flat-square"></a>
 
+
+## ```Deploy```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zeeoneofc/Self-bot-wa/)
+
 ## Join Group Bot
 [`Group Whatsapp`](https://chat.whatsapp.com/DmYC7VwLxpVIPHrysJFIC7)
 ### FOR TERMUX USER
