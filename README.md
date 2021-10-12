@@ -22,8 +22,9 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/botstylee/bsbt
-> cd bsbt
+> git clone https://github.com/van-xd/babybott
+> cd babybott
+
 > npm install
 ```
 ###### Run
